@@ -131,10 +131,17 @@
   ],
   "selectedProducts": [
     {
-      "id": "4850",
-      "categoryId": "1",
+      "id": "2dd6",
+      "categoryId": "7",
       "products": [
-        "Мука"
+        "Корица"
+      ]
+    },
+    {
+      "id": "1aca",
+      "categoryId": "8",
+      "products": [
+        "Гель для душа"
       ]
     }
   ]

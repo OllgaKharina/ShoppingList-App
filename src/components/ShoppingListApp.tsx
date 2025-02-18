@@ -1,8 +1,8 @@
-import CategoriesList from "./CategoriesList"
+import CategoriesList from "./CategoriesList";
 
-const ShoppingListApp: React.FC = () => {  
+const ShoppingListApp: React.FC = () => {
   return (
-    <div>      
+    <div className="container">
       <CategoriesList />
     </div>
   );
