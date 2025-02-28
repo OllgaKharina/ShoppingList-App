@@ -131,17 +131,17 @@
   ],
   "selectedProducts": [
     {
-      "id": "2dd6",
-      "categoryId": "7",
-      "products": [
-        "Корица"
-      ]
-    },
-    {
-      "id": "1aca",
+      "id": "02be",
       "categoryId": "8",
       "products": [
         "Гель для душа"
+      ]
+    },
+    {
+      "id": "f795",
+      "categoryId": "5",
+      "products": [
+        "Горошек"
       ]
     }
   ]
